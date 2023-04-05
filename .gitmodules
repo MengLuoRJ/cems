@@ -1,0 +1,9 @@
+[submodule "packages/server"]
+	path = packages/server
+	url = https://github.com/MengLuoRJ/cems-server.git
+[submodule "packages/web"]
+	path = packages/web
+	url = https://github.com/MengLuoRJ/cems-web.git
+[submodule "packages/miniapp"]
+	path = packages/miniapp
+	url = https://github.com/MengLuoRJ/cems-miniapp.git
